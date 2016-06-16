@@ -64,7 +64,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows/
       output: web, pdf
 
-  - title: Authoring
+  - title: CRM
     output: web, pdf
     
     folderitems:
