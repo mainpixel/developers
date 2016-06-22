@@ -1,4 +1,5 @@
-## show()
+## cURL
+### show()
 This function uses strict by database strucutred data.   
 By giving the correct Debtor unique identifier the function returns all debtor data back. 
 
