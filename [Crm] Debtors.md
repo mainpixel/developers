@@ -1,3 +1,5 @@
+Manage debtor data like addresses and other contact data.
+
 ## cURL
 ### show()
 This function uses strict by database strucutred data.   
