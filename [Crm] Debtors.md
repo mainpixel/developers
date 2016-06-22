@@ -1,6 +1,9 @@
 Manage debtor data like addresses and other contact data.
 
 ## cURL
+
+
+## Laravel Api
 ### show()
 This function uses strict by database strucutred data.   
 By giving the correct Debtor unique identifier the function returns all debtor data back. 
